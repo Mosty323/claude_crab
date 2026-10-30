@@ -1,0 +1,8 @@
+target/
+crab_config.json
+crab_library.json
+crab_error.log
+installer/Output/
+dist/
+installer/target/
+crab_debug.log
